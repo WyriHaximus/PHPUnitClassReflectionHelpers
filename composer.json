@@ -1,0 +1,13 @@
+{
+    "name": "wyrihaximus/php-unit-class-reflection-helpers",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cees-Jan Kiewiet",
+            "email": "ceesjank@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
