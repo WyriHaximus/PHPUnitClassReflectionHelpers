@@ -6,7 +6,7 @@ namespace WyriHaximus\PHPUnit\Helpers;
  * Class ReflectionTrait
  * @package WyriHaximus\PHPUnit\Helpers
  */
-class ReflectionTrait {
+trait ReflectionTrait {
     /**
      * @param string $class
      * @param string $name
